@@ -1,0 +1,17 @@
+﻿Team,Win_perc,Scoring_diff_Rank,Point_diff,ORTG_Rank,DRTG_Rank,eFG_Rank,OPP_eFG_Rank_8,OPP_eFG_Rank_15,Three_perc_Rank_10,Three_perc_Rank_15,Three_perc_Rank_20,Num_All_Stars,Home_Win_perc,Away_Win_perc,OPP_PPG_Rank_10,OPP_PPG_Rank_15,OPP_PPG_Rank_20,OPP_PPG,OPP_FG_perc_Rank_5,OPP_FG_perc_Rank_10,OPP_FG_perc,FT_perc,TPG,STL,DRB
+Philadelphia 76ers,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y
+Brooklyn Nets,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,N,Y,Y,Y,N,N,Y
+Milwaukee Bucks,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,Y,N,N,Y,Y
+New York Knicks,N,N,N,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y
+Atlanta Hawks,N,N,N,Y,N,N,Y,Y,N,Y,Y,N,N,N,N,Y,Y,Y,N,N,Y,Y,N,N,Y
+Miami Heat,N,N,N,N,Y,N,N,N,N,N,Y,N,N,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N
+Boston Celtics,N,N,N,Y,N,N,N,N,N,Y,Y,Y,N,N,N,Y,Y,Y,N,N,Y,N,Y,Y,N
+Washington Wizards,N,N,N,N,N,N,N,Y,N,N,N,Y,N,N,N,N,N,N,N,N,N,N,Y,N,Y
+Utah Jazz,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y
+Phoenix Suns,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y,N,N,N
+Denver Nuggets,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N,N,N,Y,N,Y,N
+Los Angeles Clippers,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,N,N,Y
+Dallas Mavericks,N,N,N,Y,N,N,N,Y,N,N,Y,Y,N,Y,Y,Y,Y,Y,N,Y,Y,N,N,N,N
+Portland Trail Blazers,N,N,N,Y,N,N,N,N,Y,Y,Y,Y,N,Y,N,N,N,N,N,N,N,Y,N,N,N
+Los Angeles Lakers,N,Y,N,N,Y,N,Y,Y,N,N,N,Y,N,Y,Y,Y,Y,Y,N,Y,Y,N,Y,Y,Y
+Memphis Grizzlies,N,N,N,N,Y,N,N,Y,N,N,Y,N,N,Y,N,N,Y,N,N,N,Y,N,N,Y,Y

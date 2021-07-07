@@ -1,0 +1,31 @@
+﻿Team,Season,Win_perc,Scoring_diff_Rank,Point_diff,ORTG_Rank,DRTG_Rank,eFG_Rank,OPP_eFG_Rank_8,OPP_eFG_Rank_15,Three_perc_Rank_10,Three_perc_Rank_15,Three_perc_Rank_20,Num_All_Stars,Home_Win_perc,Away_Win_perc,OPP_PPG_Rank_10,OPP_PPG_Rank_15,OPP_PPG_Rank_20,OPP_PPG,OPP_FG_perc_Rank_5,OPP_FG_perc_Rank_10,OPP_FG_perc,FT_perc,TPG,STL,DRB
+Chicago Bulls,1990-91,Y,,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,N
+Chicago Bulls,1991-92,Y,,Y,Y,Y,Y,N,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,Y,N,Y
+Chicago Bulls,1992-93,Y,,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,N,Y,Y,N
+Houston Rockets,1993-94,N,,N,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y
+Houston Rockets,1994-95,Y,,Y,N,Y,Y,Y,Y,Y,N,Y,Y,N,Y,N,Y,Y,N,Y,Y,Y,Y,N,Y,Y
+Chicago Bulls,1995-96,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y
+Chicago Bulls,1996-97,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Chicago Bulls,1997-98,Y,,Y,Y,Y,N,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+San Antonio Spurs,1998-99,Y,,Y,N,Y,N,Y,Y,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y
+LA Lakers,1999-00,Y,,Y,Y,Y,N,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y
+LA Lakers,2000-01,Y,,N,Y,N,Y,N,Y,N,N,Y,Y,Y,Y,N,N,N,N,N,N,Y,N,Y,N,Y
+LA Lakers,2001-02,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y
+San Antonio Spurs,2002-03,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,N,Y
+Detroit Pistons,2003-04,Y,Y,Y,N,Y,N,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+San Antonio Spurs,2004-05,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y
+Miami Heat,2005-06,Y,Y,N,Y,Y,Y,N,Y,N,N,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,N,N,N,Y
+San Antonio Spurs,2006-07,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y
+Boston Celtics,2007-08,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+LA Lakers,2008-09,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,N,Y,Y,Y
+LA Lakers,2009-10,Y,Y,Y,N,Y,N,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+Dallas Mavericks,2010-11,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y
+Miami Heat,2011-12,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+Miami Heat,2012-13,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,N
+San Antonio Spurs,2013-14,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,N,Y
+Golden State Warriors,2014-15,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+Cleveland Cavaliers,2015-16,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,N,Y,N,Y
+Golden State Warriors,2016-17,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y
+Golden State Warriors,2017-18,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,N,Y,Y,Y,Y,N,Y,Y
+Toronto Raptors,2018-19,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y
+LA Lakers,2019-20,Y,Y,Y,N,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,N,Y,Y
